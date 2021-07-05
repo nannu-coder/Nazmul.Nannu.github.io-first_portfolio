@@ -78,7 +78,7 @@ a {
 
 .about_content {
     width: 50%;
-    margin-top: 130px;
+    margin-top: 150px;
 }
 
 .about_content p {
@@ -98,3 +98,17 @@ a {
 /*=========================================
             Recipi Part Start
 ===========================================*/
+.recipi_heading {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.recipi_content {
+    text-align: center;
+    padding: 0 200px;
+    margin-top: 40px;
+}
+
+.recipi_content p {
+    color: #808080;
+}
