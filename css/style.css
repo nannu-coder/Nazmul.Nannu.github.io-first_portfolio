@@ -57,3 +57,44 @@ a {
 .banner_img img {
     width: 100%;
 }
+
+/*=================================================
+                About Part Start
+===================================================*/
+.about {
+    background: url(../shapes/7.png) no-repeat center;
+    background-size: cover;
+
+}
+
+.abt_img_part {
+    width: 50%;
+}
+
+.abt_img_part img {
+    width: 60%;
+    margin-top: 60px;
+}
+
+.about_content {
+    width: 50%;
+    margin-top: 130px;
+}
+
+.about_content p {
+    margin-top: 50px;
+    padding-right: 150px;
+    color: #989898;
+}
+
+.about_content a {
+    margin-top: 80px;
+}
+
+.content_heading {
+    color: #808080;
+}
+
+/*=========================================
+            Recipi Part Start
+===========================================*/
