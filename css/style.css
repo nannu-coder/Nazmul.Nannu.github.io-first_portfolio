@@ -112,3 +112,36 @@ a {
 .recipi_content p {
     color: #808080;
 }
+
+.food_item {
+    margin-top: 40px;
+}
+
+.food_box {
+    width: 30%;
+    padding: 15px;
+    box-shadow: 0px 0px 40px 4px rgba(0, 0, 0, 0.3);
+    border-radius: 25px;
+    margin: 0 25px;
+}
+
+.food_box .box_img img {
+    width: 100%;
+}
+
+.box_title {
+    margin-top: 30px;
+}
+
+.recipie_content {
+    margin-top: 30px;
+
+}
+
+.recipie_content p {
+    line-height: 30px;
+}
+
+/*=========================================
+             Counter Part Start
+===========================================*/
