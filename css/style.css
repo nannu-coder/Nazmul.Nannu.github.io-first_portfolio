@@ -120,7 +120,7 @@ a {
 .food_box {
     width: 30%;
     padding: 15px;
-    box-shadow: 0px 0px 40px 4px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 15px 1px rgba(0, 0, 0, 0.3);
     border-radius: 25px;
     margin: 0 25px;
 }
@@ -145,3 +145,26 @@ a {
 /*=========================================
              Counter Part Start
 ===========================================*/
+.counter_part {
+    margin-top: 100px;
+}
+
+.count {
+    width: 30%;
+}
+
+.counter {
+    justify-content: center;
+    box-shadow: 0px 0px 15px 1px rgba(0, 0, 0, 0.3);
+    padding: 55px 0;
+    border-radius: 25px;
+}
+
+.counter_part {
+    text-align: center;
+
+}
+
+/*=================================
+          footer part start
+===================================*/
