@@ -168,3 +168,23 @@ a {
 /*=================================
           footer part start
 ===================================*/
+.footer_part {
+    background: #0a0d16;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.footer_heading h1 {
+    color: #707070;
+    padding-top: 40px;
+}
+
+.footer_heading span {
+    color: orange;
+}
+
+.footer_description p {
+    color: #D3D3D3;
+    margin-top: 25px;
+    padding-bottom: 70px;
+}
